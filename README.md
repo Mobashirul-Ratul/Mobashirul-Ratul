@@ -30,10 +30,9 @@
 
 <div>
   <p align="left">
-    <a href="" target="blank"><img src="https://skillicons.dev/icons?i=facebook" alt="facebook" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/touhidur-zaman" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
     <a href="https://discord.gg/touhidcodes#9825" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="discord" height="30" width="40" /></a>
-    
+     <a href="https://stackoverflow.com/users/22104988" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22104988" height="30" width="40" /></a>
    
   </p>
 </div>
