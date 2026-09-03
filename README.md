@@ -38,7 +38,7 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 
 ### **Backend**
-[![My Skills](https://skillicons.dev/icons?i=node,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
 
 
 
