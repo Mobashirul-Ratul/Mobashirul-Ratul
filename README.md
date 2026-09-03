@@ -1,7 +1,5 @@
 <!--- banner --->
-<img src="./banner/github_banner.png" alt="Hello world">
 
-<br/>
 
 <!--- title --->
 <div id="user-content-toc">
