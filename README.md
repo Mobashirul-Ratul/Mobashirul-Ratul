@@ -4,7 +4,7 @@
 
 A passionate web developer..
 
-Skills: REACT / JS / HTML / CSS/TYPESCRIPT
+Skills:  HTML / CSS/ JS / REACT / TYPESCRIPT
 
 
 
