@@ -34,14 +34,17 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 ## 🛠️ Tech Stack  
 
 ### **Frontend**
-(https://skillicons.dev/icons?i=html,css,js,react,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript)](https://skillicons.dev)
+
 
 ### **Backend**
-(https://skillicons.dev/icons?i=node.js,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=node.js,express,mongodb)](https://skillicons.dev)
+
 
 
 ### **Tools & Others**
-(https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
+
 
 
 ---
