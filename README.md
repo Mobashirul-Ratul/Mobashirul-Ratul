@@ -6,12 +6,8 @@ A passionate web developer..
 
 Skills:  HTML / CSS/ JS / REACT / TYPESCRIPT
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,mongodb,git,github" />
-  </a>
-</p>
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,mongodb,git,github)](https://skillicons.dev)
 
 
 
