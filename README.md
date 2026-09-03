@@ -19,7 +19,7 @@
 - 🖥️ I’m currently working on **React.js, Next.js, Typescript ** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose ** for the backend.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB)**.
-- 🌐 Explore My Portfolio **[TouhidCodes]()** and My **[Resume]()**
+- 🌐 Explore My Portfolio **[]()** and My **[Resume]()**
 - 📝 I regularly write articles on **[LinkedIn]()**
 - 📫 Feel free to reach me out **[Email](projectdotmap@gmail.com)**
   
